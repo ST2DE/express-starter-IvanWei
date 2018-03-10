@@ -1,6 +1,7 @@
 
 
 ```
+$ npm install
 # edit config/config.json
 # create database
 $ export NODE_ENV=development
